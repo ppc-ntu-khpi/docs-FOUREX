@@ -2,6 +2,9 @@ package test;
 
 import domain.*;
 
+/**
+ * Клас для тестування класів, що відповідають за роботу зі співробітниками.
+ */
 public class EmployeesTest {
 
     public static void main(String args[]) {
